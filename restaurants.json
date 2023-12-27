@@ -1,18 +1,30 @@
 [
   {
     "name": "El Torito",
+    "description": "El Torito is located on Redondo Beach pier.",
     "street_address": "",
     "city": "Redondo Beach",
     "fees": [
-      {"percentage":  "3.99"}
-    ]
+      {
+        "name": "Service charge",
+        "percentage":  "3.99"
+      }
+    ],
+    "removable": false,
+    "manager_comment": "The manager says it is corporate policy and they don't like it either."
   },
   {
     "name": "Hopsaint Brewery",
+    "description": "A brewery with food options.",
     "street_address": "",
     "city": "Redondo Beach",
     "fees": [
-      {"percentage": "2.0"}
-    ]
+      {
+        "name": "Transaction fee",
+        "percentage": "2.0"
+      }
+    ],
+    "removable": true,
+    "manager_comment": "The manager says their IT department added the fee."
   }
 ]

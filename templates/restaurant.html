@@ -1,6 +1,24 @@
 <md-content class="restaurant-card">
-    {{restaurant}}
-<!--    <span v-for="fee in fees">-->
-<!--        {{fee}}-->
-<!--    </span>-->
+    <div v-if="restaurant">
+        <span class="md-headline">{{restaurant.name}}</span>
+        <p class="md-body-1">
+            {{restaurant.description}}
+        </p>
+        <header class="md-subheading">Fees</header>
+        <p class="md-body-1">
+            <span v-for="fee in restaurant.fees">
+                {{fee.name}} - {{fee.percentage}}%
+            </span>
+        </p>
+        <div v-if="restaurant.manager_comment">
+            <header class="md-subheading">Comment</header>
+            <p class="md-body-1">
+                {{restaurant.manager_comment}}
+            </p>
+        </div>
+        <header class="md-subheading">Removable</header>
+        <p class="md-body-1">
+            {{restaurant.removable ? 'Yes' : 'No'}}
+        </p>
+    </div>
 </md-content>

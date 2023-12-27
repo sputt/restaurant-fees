@@ -1,8 +1,15 @@
 <md-content>
     <md-list>
         <md-list-item v-for="restaurant in restaurants" :to="/restaurant/ + restaurant.name">
-            <md-card>
-                {{ restaurant.name }}
+            <md-card class="restaurant-card">
+                  <md-card-header>
+                    <div class="md-title">{{ restaurant.name }}</div>
+                  </md-card-header>
+                <md-card-content>
+                    <span v-for="fee in restaurant.fees">
+                        {{fee.percentage}}%
+                    </span>
+                </md-card-content>
             </md-card>
         </md-list-item>
     </md-list>
