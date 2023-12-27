@@ -1,0 +1,82 @@
+html, body, #app {
+    height: 100%;
+}
+
+[v-cloak] { display: none; }
+
+.md-app {
+    min-height: 350px;
+    border: 1px solid rgba(0, 0, 0, .12);
+    height: 100%;
+}
+
+.test-view {
+    border: 1px black solid;
+}
+
+.restaurant-card {
+    width: 300px;
+    margin: 8px;
+}
+
+.restaurant-card .restaurant-card-overlay {
+    background: #FEFEFE;
+    cursor: pointer;
+}
+
+.md-drawer {
+    width: 233px;
+}
+
+.md-app {
+    /*height: 100%;*/
+}
+
+.restaurant-card .pills {
+    margin-top: 4px;
+    height: 32px;
+}
+
+.restaurant-card .footer {
+    margin-top: 6px;
+}
+
+.pills .md-chip {
+    width: 150px;
+    color: white;
+    font-weight: bold;
+}
+
+.status-chip {
+    font-weight: bolder;
+    color: white !important;
+}
+
+.fixed {
+    font-family: Consolas, monospace !important;
+}
+
+.md-menu-content {
+    max-width: 500px;
+}
+
+.version {
+    text-align: right;
+}
+
+.md-list-item-content>.md-progress-spinner:first-child {
+    margin-right: 32px;
+}
+
+.flip-list-move {
+  transition: transform 0.3s;
+}
+
+.md-table .md-table-cell.md-numeric .md-table-cell-container {
+  display: inline;
+}
+.md-table .md-table-cell[width] .md-table-cell-container {
+  width: inherit;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

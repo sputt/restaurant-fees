@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html class="md-scrollbar">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons">
+    <link rel="stylesheet" href="/node_modules/vue-material/dist/vue-material.min.css">
+    <link rel="stylesheet" href="/node_modules/vue-material/dist/theme/default.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+</html>
+
+<body>
+<div id="app">
+    <md-app md-mode="fixed" v-cloak>
+        <md-app-toolbar class="md-primary" md-elevation="0">
+            Version:
+            <version></version>
+        </md-app-toolbar>
+        <md-app-content>
+            <router-view></router-view>
+        </md-app-content>
+    </md-app>
+</div>
+<script src="/node_modules/vue/dist/vue.js"></script>
+<script src="/node_modules/vue-material/dist/vue-material.min.js"></script>
+<script src="/node_modules/vue-router/dist/vue-router.min.js"></script>
+<script src="/node_modules/vue-markdown/dist/vue-markdown.js"></script>
+<script type="module">
+    Vue.use(VueMaterial.default);
+    Vue.use(VueMarkdown);
+
+    import * as main from '/app/__target__/main.js';
+    main.main();
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<md-content>
+    <md-list>
+        <md-list-item v-for="restaurant in restaurants" :to="/restaurant/ + restaurant.name">
+            <md-card>
+                {{ restaurant.name }}
+            </md-card>
+        </md-list-item>
+    </md-list>
+</md-content>

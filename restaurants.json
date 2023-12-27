@@ -1,0 +1,18 @@
+[
+  {
+    "name": "El Torito",
+    "street_address": "",
+    "city": "Redondo Beach",
+    "fees": [
+      {"percentage":  "3.99"}
+    ]
+  },
+  {
+    "name": "Hopsaint Brewery",
+    "street_address": "",
+    "city": "Redondo Beach",
+    "fees": [
+      {"percentage": "2.0"}
+    ]
+  }
+]
