@@ -155,6 +155,7 @@ class BaseComponent(metaclass=ComponentMeta):
                     {
                         "props": cls.props,
                         "mounted": all_methods.get("mounted", lambda: None),
+                        "created": all_methods.get("created", lambda: None),
                         "destroyed": all_methods.get("destroyed", lambda: None),
                         "methods": all_methods,
                         "computed": all_computed,

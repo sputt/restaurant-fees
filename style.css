@@ -15,8 +15,9 @@ html, body, #app {
 }
 
 .restaurant-card {
-    width: 300px;
-    margin: 8px;
+    width: 100%;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
 }
 
 .restaurant-card .restaurant-card-overlay {
