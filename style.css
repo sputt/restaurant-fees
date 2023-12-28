@@ -35,8 +35,9 @@ html, body, #app {
 .app-logo .sub-dollars {
     margin-top: 10px;
     font-size: 13px;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: darkred;
+    text-decoration: line-through;
+    /*-webkit-text-stroke-width: 1px;*/
+    /*-webkit-text-stroke-color: darkred;*/
 }
 
 .restaurant-card .restaurant-card-overlay {

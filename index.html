@@ -49,7 +49,9 @@
                 </md-list>
             </md-app-drawer>
             <md-app-content>
-                <router-view></router-view>
+                <keep-alive include="home">
+                    <router-view></router-view>
+                </keep-alive>
             </md-app-content>
     </md-app>
 </div>

@@ -153,6 +153,7 @@ class BaseComponent(metaclass=ComponentMeta):
 
                 resolve(
                     {
+                        "name": cls.__name__,
                         "props": cls.props,
                         "mounted": all_methods.get("mounted", lambda: None),
                         "created": all_methods.get("created", lambda: None),

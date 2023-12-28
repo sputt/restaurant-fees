@@ -3,9 +3,10 @@ from third_party import VueRouter
 
 
 HomeComponent = {
+    "name": "home",
     "template": """
-<home></home>
-"""
+    <restaurant-list></restaurant-list>
+""",
 }
 RestaurantComponent = {
     "props": ["ident"],
@@ -50,6 +51,21 @@ routes = [
     },
 ]
 
+
+def scroll_behavior(scroll_to, scroll_from, saved_position):
+    if saved_position:
+        return saved_position
+
+    return {"top": 0}
+
+
 router = None
 if VueRouter:
-    router = __new__(VueRouter({"routes": routes}))
+    router = __new__(
+        VueRouter(
+            {
+                "routes": routes,
+                "scrollBehavior": scroll_behavior,
+            }
+        )
+    )
