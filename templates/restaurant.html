@@ -10,10 +10,10 @@
                 {{fee.name}} - {{fee.percentage}}%
             </span>
         </p>
-        <div v-if="restaurant.manager_comment">
-            <header class="md-subheading">Comment</header>
+        <div v-if="restaurant.comments">
+            <header class="md-subheading">Comments</header>
             <p class="md-body-1">
-                {{restaurant.manager_comment}}
+                {{restaurant.comments}}
             </p>
         </div>
         <header class="md-subheading">Removable</header>

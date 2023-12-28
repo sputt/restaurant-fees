@@ -22,11 +22,10 @@ class RestaurantList(BaseComponent):
         self.filtered_restaurants = list(self.restaurants)
 
     def on_select(self, item) -> None:
-        print("Selected")
         router.push("/restaurant/{}".format(item["name"]))
 
     def custom_sort(self, value):
-        reverse = self.current_sort_order != "desc"
+        reverse = self.current_sort_order == "desc"
         if self.current_sort == "name":
             value.sort(
                 key=lambda val: val["name"].lower(),
