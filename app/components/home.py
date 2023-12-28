@@ -1,5 +1,5 @@
 from component import BaseComponent
-from stubs import fetch_template
+from stubs import fetch_template, fetch
 
 
 class Home(BaseComponent):

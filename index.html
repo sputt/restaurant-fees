@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons">
+    <link rel="stylesheet"
+          href="//fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons">
     <link rel="stylesheet" href="/node_modules/vue-material/dist/vue-material.min.css">
     <link rel="stylesheet" href="/node_modules/vue-material/dist/theme/default.css">
     <link rel="stylesheet" href="style.css">
@@ -11,15 +12,44 @@
 </html>
 
 <body>
-<div id="app">
+<div id="app" class="page-container md-layout-column">
     <md-app v-cloak>
-        <md-app-toolbar class="md-primary" md-elevation="0">
-            Version:
-            <version></version>
-        </md-app-toolbar>
-        <md-app-content>
-            <router-view></router-view>
-        </md-app-content>
+            <md-app-toolbar class="primary" md-elevation="0">
+                 <md-button class="md-icon-button" v-if="show_back" @click="go_back()">
+                    <md-icon>keyboard_arrow_left</md-icon>
+                  </md-button>
+                  <md-button class="md-icon-button" v-else @click="show_navigation = true">
+                    <md-icon>menu</md-icon>
+                  </md-button>
+                <span class="md-title">{{ title }}</span>
+            </md-app-toolbar>
+            <md-app-drawer :md-active.sync="show_navigation" md-swipeable>
+                  <md-toolbar class="md-transparent" md-elevation="0">
+                    <div class="app-logo">
+                        <div class="primary-dollar">$</div>
+                        <div class="sub-dollars">$$$$</div>
+                    </div>
+                  </md-toolbar>
+                <md-list>
+                    <md-list-item to="/home" @click="show_navigation = false">
+                        <md-icon>restaurant</md-icon>
+                        <span class="md-list-item-text">Fees</span>
+                    </md-list-item>
+
+                    <md-list-item to="/faq" @click="show_navigation = false">
+                        <md-icon>help_outline</md-icon>
+                        <span class="md-list-item-text">FAQ</span>
+                    </md-list-item>
+
+                    <md-list-item to="/about" @click="show_navigation = false">
+                        <md-icon>info</md-icon>
+                        <span class="md-list-item-text">About</span>
+                    </md-list-item>
+                </md-list>
+            </md-app-drawer>
+            <md-app-content>
+                <router-view></router-view>
+            </md-app-content>
     </md-app>
 </div>
 <script src="/node_modules/vue/dist/vue.js"></script>
@@ -31,6 +61,7 @@
     Vue.use(VueMarkdown);
 
     import * as main from '/app/__target__/main.js';
+
     main.main();
 </script>
 </body>

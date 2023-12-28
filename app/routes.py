@@ -13,9 +13,31 @@ RestaurantComponent = {
     <restaurant :ident="ident"></restaurant>
 """,
 }
+FAQComponent = {
+    "template": "<frequently-asked-questions></frequently-asked-questions>",
+}
 routes = [
-    {"path": "*", "component": HomeComponent},
-    {"path": "/restaurant/:ident", "component": RestaurantComponent, "props": True},
+    {
+        "name": "home",
+        "path": "*",
+        "component": HomeComponent,
+        "meta": {"title": "Restaurant Fees"},
+    },
+    {
+        "path": "/restaurant/:ident",
+        "component": RestaurantComponent,
+        "props": True,
+        "meta": {
+            "title": "Restaurant Fees",
+        },
+    },
+    {
+        "path": "/faq",
+        "component": FAQComponent,
+        "meta": {
+            "title": "Restaurant Fees - FAQ",
+        },
+    },
 ]
 
 router = None

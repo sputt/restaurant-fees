@@ -13,6 +13,7 @@ from component import BaseComponent
 
 from components.restaurant import *
 from components.home import *
+from components.faq import *
 from components.restaurant_list import *
 
 from routes import router
@@ -42,6 +43,23 @@ class Version(BaseComponent):
 class RootObject:
     """Root object for the app."""
 
+    def __init__(self):
+        self.show_navigation = False
+        self.show_back = False
+        self.title = ""
+
+    def on_route_change(self, to_route, from_route):
+        if "title" in to_route["meta"]:
+            self.title = to_route["meta"]["title"]
+
+        if to_route["path"].startswith("/restaurant") and from_route["name"] == "home":
+            self.show_back = True
+        else:
+            self.show_back = False
+
+    def go_back(self):
+        router.back()
+
 
 def _filter_datetime(value):
     time_obj = datetime.strptime(value, "%Y-%m-%dT%H:%M:%S.%f")
@@ -67,7 +85,7 @@ def main():
                 "el": "#app",
                 "data": root,
                 "methods": {
-                    "toggle_menu": lambda: root.toggle_menu(),
+                    "go_back": lambda: root.go_back(),
                 },
                 "router": router,
             }

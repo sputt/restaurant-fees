@@ -20,6 +20,23 @@ html, body, #app {
     margin-right: 0 !important;
 }
 
+.app-logo {
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.app-logo .primary-dollar {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.app-logo .sub-dollars {
+    margin-top: 10px;
+    font-size: 13px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: darkred;
+}
+
 .restaurant-card .restaurant-card-overlay {
     background: #FEFEFE;
     cursor: pointer;

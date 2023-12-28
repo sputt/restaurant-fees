@@ -14,11 +14,14 @@ class RestaurantList(BaseComponent):
         self.restaurants = restaurants
         self.filtered_restaurants = []
         self.filter = None
+        self.not_yet_filtered = True
         self.logger = logging.getLogger("component.restaurant_list")
         self.current_sort = "name"
         self.current_sort_order = "asc"
 
-    def created(self) -> None:
+    def show_all(self) -> None:
+        self.not_yet_filtered = False
+        self.filter = None
         self.filtered_restaurants = list(self.restaurants)
 
     def on_select(self, item) -> None:
@@ -36,7 +39,14 @@ class RestaurantList(BaseComponent):
             def _fee_key(val) -> float:
                 largest_fee = 0.0
                 for fee in val["fees"]:
-                    largest_fee = max(largest_fee, float(fee["percentage"]))
+                    if not fee["percentage"].strip():
+                        continue
+                    if "$" in fee["percentage"]:
+                        continue
+                    try:
+                        largest_fee = max(largest_fee, float(fee["percentage"]))
+                    except:
+                        pass
                 return largest_fee
 
             value.sort(
@@ -46,6 +56,7 @@ class RestaurantList(BaseComponent):
         return value
 
     def search_table(self):
+        self.not_yet_filtered = False
         self.filtered_restaurants = [
             restaurant
             for restaurant in self.restaurants
