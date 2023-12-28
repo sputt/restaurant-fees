@@ -27,8 +27,8 @@
             </md-table-cell>
         </md-table-row>
         <md-table-empty-state v-if="not_yet_filtered"
-                md-label="Search for your restaurant here.">
-            <span><a href="#" @click="show_all()">Click here</a> to show all.</span>
+                md-label="Search for your restaurant">
+            <span>Or <a href="#" @click="show_all()">click here</a> to show all.</span>
         </md-table-empty-state>
         <md-table-empty-state v-else
                 md-label="No restaurants found"

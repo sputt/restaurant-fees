@@ -14,6 +14,7 @@ from component import BaseComponent
 from components.restaurant import *
 from components.home import *
 from components.faq import *
+from components.about import *
 from components.restaurant_list import *
 
 from routes import router

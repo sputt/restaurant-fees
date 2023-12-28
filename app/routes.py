@@ -16,6 +16,9 @@ RestaurantComponent = {
 FAQComponent = {
     "template": "<frequently-asked-questions></frequently-asked-questions>",
 }
+AboutComponent = {
+    "template": "<about></about>",
+}
 routes = [
     {
         "name": "home",
@@ -36,6 +39,13 @@ routes = [
         "component": FAQComponent,
         "meta": {
             "title": "Restaurant Fees - FAQ",
+        },
+    },
+    {
+        "path": "/about",
+        "component": AboutComponent,
+        "meta": {
+            "title": "About",
         },
     },
 ]

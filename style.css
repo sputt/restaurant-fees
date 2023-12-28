@@ -23,6 +23,8 @@ html, body, #app {
 .app-logo {
     margin-left: 5px;
     margin-top: 20px;
+    width: 20px;
+    position: relative;
 }
 
 .app-logo .primary-dollar {
