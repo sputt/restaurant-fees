@@ -28,13 +28,34 @@ def main() -> None:
         if row["Employee Comments"]:
             comments.append(_sanitize_comment(row["Employee Comments"]))
 
+        autograt = False
+        for comment in comments:
+            lower_comment = comment.lower()
+            if (
+                "autograt" in lower_comment
+                or "no-tipping" in lower_comment
+                or "no tipping" in lower_comment
+            ) and not ("or more" in lower_comment or "large group" in lower_comment):
+                autograt = True
+                break
+
+        autograt |= True if row["Counts as tip?"] == "Y" else False
+
+        fee_obj = {"percentage": row["Fee %"].replace("%", "")}
+        if autograt:
+            fee_obj["name"] = "autograt"
+
         data.append(
             {
                 "name": row["Restaurant Name"],
-                "fees": [{"percentage": row["Fee %"].replace("%", "")}],
+                "fees": [fee_obj],
                 "removable": row["Removable?"] == "Y",
                 "comments": comments,
                 "location": row["Location"],
+                "autograt": autograt,
+                "sources": [
+                    "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+                ],
             }
         )
 

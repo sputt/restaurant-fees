@@ -1,32 +1,29 @@
 <div>
-<md-content>
-    <table cellspacing="20px">
-        <tr>
-            <td>
-                <div class="app-logo" style="clear: none">
+    <md-content class="top-bar">
+        <div class="logo-bar">
+            <div class="logo-container">
+                <div class="app-logo">
                     <div class="primary-dollar">$</div>
                     <div class="sub-dollars">$$$$</div>
                 </div>
-            </td>
-            <td>
-                <span class="md-display-1" style="color: black;">Fight Junk Fees</span>
-            </td>
-        </tr>
-    </table>
-</md-content>
-<transition name="expand">
-    <md-content v-show="!filter" class="box">
-        <p>Many restaurants have been raising prices via hidden fees instead of increasing
-            their menu prices.</p>
-        <p>This practice is dishonest and unfair to the consumer. Help fight these fees by
-            avoiding restaurants
-            that engage in this practice or asking for the fee to be removed from your
-            bill.</p>
-        <p>See <a href="#/faq">the FAQ</a> for more details.</p>
+            </div>
+            <div class="title-container">
+                Fight Junk Fees
+            </div>
+        </div>
+        <transition name="expand">
+            <div v-show="!filter" class="box">
+                <p>Many restaurants have been raising prices via fees instead of
+                    increasing their menu prices.</p>
+                <p>Help fight these fees by avoiding restaurants
+                    that engage in this practice or asking for the fee to be removed from
+                    your bill.</p>
+                <p>See <a href="#/faq">the FAQ</a> for more details.</p>
+            </div>
+        </transition>
     </md-content>
-</transition>
-<md-content>
-    <md-table v-model="filtered_restaurants"
+<div class="restaurant-list">
+    <md-table class="restaurant-list" v-model="filtered_restaurants"
               :md-sort.sync="current_sort"
               :md-sort-order.sync="current_sort_order"
               :md-sort-fn="custom_sort" md-sort-order="asc">
@@ -46,7 +43,7 @@
                     {{ item.name }}
                 </md-table-cell>
                   <md-table-cell md-label="Fees" md-sort-by="fees" md-numeric>
-                      <span>{{ fee_display(item) }}</span>
+                      <fee-pill v-for="fee in item.fees" v-bind:key="fee.name" :fee="fee"></fee-pill>
                 </md-table-cell>
             </router-link>
 
@@ -64,5 +61,5 @@
         past visits to restaurants and we make no guarantee of its accuracy, but will in good faith attempt
         to keep it up-to-date. Always check with the restaurant directly for the latest fee policies.
     </p>
-</md-content>
+</div>
 </div>

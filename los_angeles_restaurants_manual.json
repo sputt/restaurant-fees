@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Coastal",
+    "fees": [
+      {
+        "name": "Service & safety fee",
+        "percentage": "2"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Per the owner: Required to provide additional services for our employees. Helps with accounting keeping it as a separate fee. Have to provide support services for burnout, such as counseling. Not health insurance."
+    ],
+    "location": "Hermosa Beach",
+    "autograt": false,
+    "sources": [
+      "Visit on November 10, 2023.\n![image](photos/coastal.jpg)"
+    ]
+  },
+  {
+    "name": "Paradise Cove Beach Cafe",
+    "fees": [
+      {
+        "name":"Sustainability fee",
+        "percentage": "5"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "On two different menus, the 5% had a different name. The waitress thought Malibu required them to charge this fee."
+    ],
+    "location": "Malibu",
+    "autograt": false,
+    "sources": [
+      "Visit October 29, 2023.\n![image](photos/paradisecove.jpg)"
+    ]
+  }
+]

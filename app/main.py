@@ -14,6 +14,7 @@ from component import BaseComponent
 from components.restaurant import *
 from components.faq import *
 from components.about import *
+from components.fee import *
 from components.restaurant_list import *
 
 from routes import router
@@ -28,18 +29,6 @@ TIMEZONE = "UTC"
 __pragma__("tconv")  # Enable truth conversion
 
 
-class Version(BaseComponent):
-    props = ["session"]
-
-    @staticmethod
-    async def template():
-        return """
-            <span>
-                1.0
-            </span>
-            """
-
-
 class RootObject:
     """Root object for the app."""
 
@@ -52,10 +41,12 @@ class RootObject:
         if "title" in to_route["meta"]:
             self.title = to_route["meta"]["title"]
 
-        if to_route["path"].startswith("/restaurant") and from_route["name"] == "home":
-            self.show_back = True
-        else:
-            self.show_back = False
+        self.show_back = False
+        if to_route["path"].startswith("/restaurant"):
+            if from_route["name"] == "home":
+                self.show_back = True
+            title = to_route["path"].replace("/restaurant/", "")
+            self.title = decodeURI(title)
 
     def go_back(self):
         router.back()

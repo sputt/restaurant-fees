@@ -1,0 +1,4849 @@
+[
+  {
+    "name": "208 Rodeo",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% Surcharge"
+    ],
+    "location": "Beverly Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "71Above | Sky Lounge",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"18% Service Charge added to all checks and paid out to all hourly employees - Any additional tip would be shared by your service team\" Removeable by request"
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "AOC ",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"5% Healthcare Surcharge.\" Note that they include this surcharge in the calculation of the sales tax."
+    ],
+    "location": "West Hollywood / Brentwood ",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Above Sixty (Ella Cafe & Sixty Rooftop)",
+    "fees": [
+      {
+        "percentage": "18",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% Autograt"
+    ],
+    "location": "Beverly Hills",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Ace Hotel",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% surcharge (cashless operation). 20% autograt for parties 6 or more"
+    ],
+    "location": "Palm Springs",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Agnes Restaurant & Eatery",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Healthy LA"
+    ],
+    "location": "Pasadena",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Alamo Drafthouse Cinema",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "3% Service Charge (optional), 20% autograt added to any unsigned credit card receipt or parties 8 or more",
+      "\"Every cent goes to paying our back-of-house employees a competitive livable wage.\""
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Alder and Sage",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20%* (\"Parties of 6 or larger will be assessed a service charge of 20%\" yet tips still requested."
+    ],
+    "location": "Long Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Alimento",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"A 4% charge will be applied to all checks so that we may offer health insurance to full-time team members.\" $1.50 \"Water Donation\" per person"
+    ],
+    "location": "Silverlake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "All Day Baby",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% \"Kitchen Love\""
+    ],
+    "location": "Silverlake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "All Time",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Even on takeout"
+    ],
+    "location": "Los Feliz",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Alta",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Wellness fee"
+    ],
+    "location": "West Adams",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "American Beauty",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Health and happiness\" surcharge to cover employee health insurance",
+      "source: former employee, and no, i did not get health insurance"
+    ],
+    "location": "Venice Beach / West Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Amiga Amore",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Highland Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Animal ",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "(temporarily closed) set to reopen Jan 1 2024"
+    ],
+    "location": "Fairfax",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Antico Nuovo",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"4% will be added to your check to support the kitchen of the Antico family. \r\n Gratuity is not included.\""
+    ],
+    "location": "Oakwood ",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Baar Baar LA",
+    "fees": [
+      {
+        "percentage": "24",
+        "name": "autograt"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "4% Service Charge (removable), 20% Service Fee (not removable). Menu states this is for 6 or more but appears to be for all checks, table or bar, brunch and dinner."
+    ],
+    "location": "DTLA",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bacari",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "DTLA / Glendale / PdR / Silverlake / W. Adams",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Ballasst Point",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Long Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bar Am\u00e5",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"18% service charge is added to all checks. The service charge allows for a more equitable distribution of pay. It is not considered a tip and is taxed per state law.\""
+    ],
+    "location": "",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bar Hermanito",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"5% surcharge will be added to each check to ensure competitive industry compensation, medical benefits for our staff, as well as help aid our commitment to providing health and wellness for our community. ...this surcharge is not part of our gratuity for services.\""
+    ],
+    "location": "Sawtelle (West LA)",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bar Lis",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bardonna",
+    "fees": [
+      {
+        "percentage": "10"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Barra Santos",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% Service charge \u201csupport equitable earnings, medical and retirement benefits for staff\u201d",
+      "A server noted that this goes to the staff and said that tipping above was not necessary. On the receipt the automatic percentages to add tip if you chose to were 1%, 3%, 5%"
+    ],
+    "location": "Cypress Park",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bavel",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"4% service charge will be added to each guest check to ensure competitive industry compensation, as well as health and medical benefits, for all of our valued full time team members. In support of this initiative, the entirety of the charge is retained by the restaurant.\" Removeable by request"
+    ],
+    "location": "Arts District",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Best Bet Pizzaria",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Healthy LA\""
+    ],
+    "location": "Mar Vista",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bestia",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "A server noted that this actually goes to staff"
+    ],
+    "location": "Arts District",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bicyclette Bistro",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "A 4% service charge will be added to each guest check to ensure competitive industry compensation, as well as health and medical benefits, for all of our valued full time team members. In support of this initiative, the entirety of the charge is retained by the company.",
+      "Submitted as a current employee. Our parent company, Sprout LA is unable to provide employees with proof of where this money goes or how it is accounted for. I believe it is the businesses responsibility to pay for benefits, not the guests."
+    ],
+    "location": "",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Birdcage",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Admin fee\""
+    ],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Birdie G's",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 3% charge is added by the restaurant to all checks to help offer fully covered health care to all employees. Please let us know if you have any questions. Thanks for supporting a healthier staff.\""
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Blind Barber",
+    "fees": [
+      {
+        "percentage": "18",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% Autograt"
+    ],
+    "location": "Highland Park",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Blossom Vietnamese Noodle Shop",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"For Dining in ONLY, 18% Service Charge is Added to Your Final Check.\""
+    ],
+    "location": "Santa Monica / DTLA / Atwater Village",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bombay Palace",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% service fee - before tax."
+    ],
+    "location": "Beverly Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bone Kettle",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% Service Charge included in tax calculation"
+    ],
+    "location": "Pasadena",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bossa Nova",
+    "fees": [
+      {
+        "percentage": "2.5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"for the kitchen\""
+    ],
+    "location": "DTLA / Hawthorne / WeHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Botanica Restaurant",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% Wellness Charge"
+    ],
+    "location": "Silver Lake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bottega Louie",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "DTLA / West Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Bottega Louie",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"5% surcharge... not a service charge, gratuity or paid to employees\""
+    ],
+    "location": "WeHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Breakfast Club",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Hollywood/Vine",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Breakfast Republic",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 4% surcharge will be added to all guest checks to help cover increasing costs and in support of the recent increases to minimum wage\" written in small text on the bottom of the drinks menu"
+    ],
+    "location": "Culver City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Brick and Flour",
+    "fees": [
+      {
+        "percentage": "6"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Cited \"covid\" and \"supply chain issues\"",
+      "Asked server to reverse the charge and they refused"
+    ],
+    "location": "Glendale/North Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Broken Shaker",
+    "fees": [
+      {
+        "percentage": "22",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% service fee + 4% health CA surcharge"
+    ],
+    "location": "DTLA",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Burger Lounge",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "I just got onion rings to go at Burger Lounge earlier today. I took the receipt. I know for something like this, most people refuse the receipt. They charged me a 'temporary' 4% surcharge. For a side order. To go."
+    ],
+    "location": "Various",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Cabra",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% charge for \"benefits for our valued team members. The entirety of the surcharge is retained by Boka Restaurant Group, and the surcharge is not intended to be either a gratuity or a charge for services performed.\""
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Cafe Landwer",
+    "fees": [
+      {
+        "percentage": "8.5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "8.5% Service fee"
+    ],
+    "location": "Culver City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Cafe Sevilla",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"5% surcharge will be added to all guest checks to help cover increasing costs & in support of the recent minimum wage & benefits for our dedicated team members.\""
+    ],
+    "location": "Long Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Caipirinha Bar",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"20% service charge will be added to each check to support equitable earnings, medical, and retirement benefits for staff.\""
+    ],
+    "location": "",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Cal Mex Cantina",
+    "fees": [
+      {
+        "percentage": "3.99"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"To help offset increased labor costs due to local, state, and federal ordinances, a 3.99% surcharge is included on all guest checks.\""
+    ],
+    "location": "Redondo Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Calabra @ Proper Hotel",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% wellness fee. 20% autograt for parties of 6 or more. Reservations cost $5 per person, otherwise bar seating only without reservation."
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Campsite Brewing Co.",
+    "fees": [
+      {
+        "percentage": "18",
+        "name": "autograt"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "18% Service charge for counter service"
+    ],
+    "location": "Covina",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Capo",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "disclosed on bottom of menu. Service charge is not in lieu of a tip; that\u2019s extra."
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Cara Cara",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"3% Wellness fee\""
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Cassia",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 3% charge is added by the restaurant to all checks to help offer fully covered healthcare to our employees. Please let us know if you have questions.\""
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Ceviche Project",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Service Charge"
+    ],
+    "location": "Los Feliz",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Charcoal",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% kitchen staff surcharge"
+    ],
+    "location": "Venice",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Chulita",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"In order to support our dedicated kitchen team and to help provide benefits for all eligible team members, a 4% surcharge is added to all in house guest checks. Please note: the surcharge is not for service and not distributed to the service staff\""
+    ],
+    "location": "Venice",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Citrin and Melisse",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"4% Employee Health charge... to cover the cost of full health care benefits for our full time employees\""
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Clark Street Bakery",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "charges 4% for 'Kitchen Love' even if you just get a sandwich to go"
+    ],
+    "location": "Brentwood / Echo Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Connie and Ted's",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% Autograt"
+    ],
+    "location": "WeHo",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Cosa Buona",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% for all checks; 20% autograt for parties of 5 or more"
+    ],
+    "location": "Echo Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Coucou",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"In an effort to benefit all Coucou employees, a surcharge of 20% will be added to each bill. This is not a tip or gratuity.\""
+    ],
+    "location": "Venice",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Crazy Rock'n Sushi",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Large Party Service Fee (18%) does not count as tip"
+    ],
+    "location": "Glendale",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Cripsy Pork Gang",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% Service Charge"
+    ],
+    "location": "Thai Town",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Crossroads Clothing Store",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"In an effort to preserve our affordable prices and keep up with the rising costs of doing business, a 3% surcharge will be added to your purchase.\""
+    ],
+    "location": "WeHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Crossroads Kitchen",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"To support living wages for our back-of-the-house staff, a 3% service charge will be added to your check. \""
+    ],
+    "location": "WeHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Crustatean",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"3% fee is automatically added to your bill to support our kitchen staff. (This is not a gratuity)\""
+    ],
+    "location": "Beverly Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Damian",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Wellness benefits, Parties of 6 and more will include a 20% service charge on the final bill. This service charge is subject to state tax"
+    ],
+    "location": "Arts District",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Dan's Super Subs",
+    "fees": [
+      {
+        "percentage": "$0.75 - $1.25"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Due to high inflation, we will be adding a temporary surcharge to all subs.\""
+    ],
+    "location": "Woodland Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Dekkadence",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Desert 5 Spot",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "DiDi ",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"4% entertainment fee will be added to each guest check to ensure compeititve compensation, in addition to medical benefits for all full time team members. The entirety of the charge is retained by the company...\""
+    ],
+    "location": "WeHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Domestic BBQ",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "3% service charge that can be removed but you have to ask the manager"
+    ],
+    "location": "Covina",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Donna Jean",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% fee for employee health benefits (not shown on menu)"
+    ],
+    "location": "Sherman Oaks",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Drake's Hollywood",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"This charge is for the benefit of Drake\u2019s employees. In support of this initiative, the entirety of this charge is retained by Drake\u2019s.\""
+    ],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Duck House",
+    "fees": [
+      {
+        "percentage": "15"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"to ensure quality service and cover essential costs, a 15% service fee has been implemented on all Dine-In orders. This fee directly benefits our servers' salaries and operational expenses. Please note, the service fee is not a tip or gratuity\""
+    ],
+    "location": "Monterey Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Dunsmoor",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Glassell park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "El Condor",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Equitable Living Charge"
+    ],
+    "location": "Silver Lake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "El Torito",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"To help offset increased labor costs due to new local, state, and federal ordinances, a 3.5% surcharge is included on all guest checks.\""
+    ],
+    "location": "Hawthorne / MdR / Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Etta",
+    "fees": [
+      {
+        "percentage": "3.5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"To help cover health insurance, benefits and staff wellness we are adding a 3.5% charge for all transactions paid.\"",
+      "This is actually just pocketed by the owners. Theoretically it could go towards healthcare but most employees are below the hourly minimum to qualify for healthcare"
+    ],
+    "location": "Culver City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Fanny's",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"5% Healthy LA service charge to help cover the health insurance for full-time associates\""
+    ],
+    "location": "Mid-Wilshire",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Fat + Flour",
+    "fees": [
+      {
+        "percentage": "15"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "$2.25 (service fee from online platform vendor Tock) plus additional obligatory 15% \u201cservice fee\u201d from bakery for pre-paid pick up orders."
+    ],
+    "location": "Grand Central Market (DTLA)",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Felix Trattoria",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Unclear Service Charge - Website Provides No Details"
+    ],
+    "location": "Venice",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Fia",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% Autograt for parties of 6 or more"
+    ],
+    "location": "",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Follow Your Heart",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "5% Healthcare"
+    ],
+    "location": "Canoga Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Foothill",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% gratuity for 8 or more. 3% surcharge for kitchen staff"
+    ],
+    "location": "Pasadena",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Found Oyster",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"20% service charge added to each check, 100% of which is distributed to staff.\""
+    ],
+    "location": "East Hollywood",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Funke",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Wellness Surcharge"
+    ],
+    "location": "Beverly Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Gasolina Cafe",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"20% service charge added to all checks. This allows us to pay living wages to front and back of house.\" Gratuity still expected."
+    ],
+    "location": "Woodland Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Geoffrey's Malibu",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Surcharge \"to support increased costs (tax included)\""
+    ],
+    "location": "Malibu",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Girl & The Goat LA",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"A 4% surcharge will be added to your final bill to assist in covering the costs of benefits for our valued team members. If you would like this removed, please let us know. Thank you for your support!\""
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Gjelina",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% Service Charge, disributed to all hourly employees. No addiitonal tip needed"
+    ],
+    "location": "",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Gjusta",
+    "fees": [
+      {
+        "percentage": "15-20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"20% service fee\""
+    ],
+    "location": "Venice Beach",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Good Clean Fun",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "15% for take out / 20% for dine in"
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Goodboy Bob Coffee (GBB)",
+    "fees": [
+      {
+        "percentage": "N/A"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Multiple Locations",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Granada Mexican Restaurant",
+    "fees": [
+      {
+        "percentage": "3.84"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3.84% Credit & Debit transaction fee"
+    ],
+    "location": "",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Greekman's",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"We add an 18% service charge to all bills. \u001cis charge is shared exclusively by our whole team to create a more equitable restaurant model. Please let us know if you would like this removed\""
+    ],
+    "location": "Echo Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Green Cottage",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% \"hospitality fee\" Not gratuity"
+    ],
+    "location": "Encino",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Guerrilla Tacos",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "2019 LAist Article"
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hamburger Mary's",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "West Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Handroll Bar (HRB) ",
+    "fees": [
+      {
+        "percentage": "18",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Counter Service / \"No Tipping Establishment\""
+    ],
+    "location": "Century City - Westfield",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hatchet Hall",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"All checks include a 20% mandatory service charge. It is our belief that our entire staff is integral to the service experience.\" This is in lieu of tip.",
+      "Staff encouraged not to add additional tip. The bar also includes the 20% service charge for drinks only."
+    ],
+    "location": "Culver City",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hayat's Kitchen",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "NoHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "HiHo Cheeseburger",
+    "fees": [
+      {
+        "percentage": "6",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Counter Service / \"No Tipping Establishment\""
+    ],
+    "location": "MdR / Beverly Hills / Santa Monica / Studio City",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Highlight Room",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hilltop Coffee and Kitchen",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% service fee added and ask for a tip .....for a coffee"
+    ],
+    "location": "Slauson / DTLA / Inglewood / Eagle Rock",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hinoki & The Bird",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"As a non-tipping restaurant, we add a 20% fee to all checks. This is not a tip or gratuity, and tips are discouraged.\""
+    ],
+    "location": "Century City",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hippo",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Highland Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "HiroNori Craft Ramen",
+    "fees": [
+      {
+        "percentage": "16.5",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "16.53% service fee (no tipping establishment)"
+    ],
+    "location": "Pasadena",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hodori Korean Cuisine",
+    "fees": [
+      {
+        "percentage": "$1"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "$1 surcharge for To-Go orders"
+    ],
+    "location": "Eagle Rock",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hole Mole",
+    "fees": [
+      {
+        "percentage": "10"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"At this time, a 10% Service will apply to all orders.\"",
+      "According to this user, the 10% surcharge only applies to online orders and you can bypass it by ordering from Doordash for pickup"
+    ],
+    "location": "Long Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Home",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"A 4% service charge will be added to each guest check to ensure competitive industry compensation, as well as health and medical benefits, for all of our valued full time team members. In support of this initiative, the entirety of the charge is retained by the restaurant. If you would like this charge removed, please let our staff know. Thank you for dining with us and supporting our staff.\""
+    ],
+    "location": "Los Feliz",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hong Kong BBQ",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Chinatown",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "HopSaint",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Local surcharge\""
+    ],
+    "location": "Torrance",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Horses",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"4% restaurant fee will be added to all checks.\""
+    ],
+    "location": "West Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Huckleberry Bakery & Cafe",
+    "fees": [
+      {
+        "percentage": "2"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"2% charge is added by the restaurant to all checks to help offer fully covered health care to all employees. Please let us know if you have any questions. Thank you for supporting a healthier staff.\""
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Hugo's",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% Surcharge for kitchen and staff"
+    ],
+    "location": "WeHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Il Fornaio",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Restaurant Adversity Surcharge \u2013 3% As a result of supply chain difficulties & increasing operational costs the restaurant industry is experiencing (including rising wage, benefit & other government requirements), a 3% surcharge will be added to all checks. Grazie mille for your support during these challenging times!\""
+    ],
+    "location": "Multiple Locations",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Inka Wasi",
+    "fees": [
+      {
+        "percentage": "16"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "16% surcharge"
+    ],
+    "location": "Rolling Hills, DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Jame Enoteca Italian",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 20% gratuity is added for parties of 6 or more. A 3% employee benefit fee is added to all checks (kindly let your server know if you would like this removed).\""
+    ],
+    "location": "El Segundo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Jemma di Mare",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Brentwood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Jewel",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\u201c3% kitchen surcharge to ensure a more equitable workplace.\u201d"
+    ],
+    "location": "Silver Lake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Jin Cook",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% for takeout orders over $100. Large groups will be charged 18% autograt, then display gives option to tip additonal 2-7%"
+    ],
+    "location": "Glendale",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Jinky's",
+    "fees": [
+      {
+        "percentage": "3.9"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3.96% in support of rising minimum wage"
+    ],
+    "location": "Studio City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Jitlada",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% service fee added, not a tip"
+    ],
+    "location": "Thai town",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Jon & Vinny\u2019s",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% \"Service Fee\" that does NOT go to staff"
+    ],
+    "location": "Brentwood / Fairfax / Slauson",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Jonah's Kitchen + Bar",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"4% surcharge... to offset the increased cost of wages\" 22% autograt for parties 6 or more"
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Joy on York",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Health Care\" fee. Can an employee confirm if it actually goes to them?"
+    ],
+    "location": "Highland Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Ka'Teen",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"5% wellness fee is added to all checks in support of health benefits to our staff.\r\nThe entirety of the fee is retained by the company.\" Removable by request. 20% autograt for parties 6 or more"
+    ],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Kahuna Tiki Tu",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% Surcharge"
+    ],
+    "location": "Valley Village (NoHo)",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Kali Restaurant",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 5% kitchen appreciation charge will be applied to your meal.\""
+    ],
+    "location": "Hancock Park (Hollywood)",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Karl Strauss",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "City Walk",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Kato",
+    "fees": [
+      {
+        "percentage": "18",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Autograt: \"An 18% service charge will be added to your bill to provide comprehensive benefits, as well as a consistent livable wage for both our service and culinary teams. Though many of our guests choose to leave gratuity for exemplary service, it is neither necessary nor expected, though it is greatly appreciated. This gratuity will be shared by the service and culinary teams.\""
+    ],
+    "location": "The Row (Produce district)",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Katsu-Moto",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"18% Service Charge will be added to every check\""
+    ],
+    "location": "Glendale",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Katsuya",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"To help defray the rising costs of the restaurant industry, a 5% surcharge will be added to your check. If you would like this surcharge removed, please let us know. Thank you for supporting a healthier and happier restaurant staff.\" Also 20% autograt for parties 6 or more"
+    ],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "KazuNori",
+    "fees": [
+      {
+        "percentage": "16",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "No Tipping Establishment - Surcharge Also Applicable to Deliveries"
+    ],
+    "location": "Multiple Locations",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Kismet",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 4% charge is added to every check and retained by the restaurant to help us provide health benefits to our team.\""
+    ],
+    "location": "Los Feliz",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Kombu Sushi",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Silverlake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "L&E Oyster Bar",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [],
+    "location": "Silver Lake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "La Cha Cha Ch\u00e5",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "La Dolce Vida",
+    "fees": [
+      {
+        "percentage": "2"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"2% Kitchen Appreciation Fee... will directly benefit solely the kitchen team\""
+    ],
+    "location": "Beverly Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Lamill Coffee",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Silverlake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Lasita",
+    "fees": [
+      {
+        "percentage": "3.5, 10"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "A 3.5% service charge will be added to each guest check to ensure competitive industry compensation as well supplementing health and wellness benefits for our staff. This should not be considered gratuity for staff. If you would like this charge removed or have any questions, please let us know. Thank you for dining with us. A 10% take-out service fee is added to all to-go and online orders which goes directly to the kitchen team."
+    ],
+    "location": "Chinatown",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Le Cellar",
+    "fees": [
+      {
+        "percentage": "see comment"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Charges for bottled water ($8) after requesting tap, calculates tip on post-tax total"
+    ],
+    "location": "Pasadena",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Le Petit Paris",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Surcharge of 4% added to all checks to help cover increased costs and minimum wage increases for our dedicated staff.\""
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Lillie's @ The Culver Hotel ",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% \"Wellness\" surcharge, tip based on post-tax amount"
+    ],
+    "location": "Culver City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Little Dom's",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"A 4% charge is added to all checks to provide health insurance and raise the standards for non-tipped employees.  Thank you for supporting our team. If you would like this charge removed, simply let your server know.\""
+    ],
+    "location": "Los Feliz",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Little Sister",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "2019 LAist Article"
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "LoBoehme",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "3% optional surcharge"
+    ],
+    "location": "",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Lolo Wine Bar",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% is for tip only. Nothing else is required to add to the receipt."
+    ],
+    "location": "Liitle Armenia (East Hollywood)",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Lonely Oyster",
+    "fees": [
+      {
+        "percentage": "2.5"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Echo Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Loreto",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Frogtown (Atwater Village)",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Loulou",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Service Fee"
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Loupiotte Kitchen",
+    "fees": [
+      {
+        "percentage": "18-20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "This is an auto tip. The machine prepopulates additional 2%, 5%, and 7%"
+    ],
+    "location": "Los Feliz",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Lucky Strike",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% Service Charge"
+    ],
+    "location": "LA Live DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Lucques",
+    "fees": [
+      {
+        "percentage": "3.5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3.5% Surcharge is removable upon request per statement from The Lucques Group (see link)"
+    ],
+    "location": "West Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Lulu",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"18% service charge... goes to all hourly staff in the rorm of higher compensation\" (not a tip)"
+    ],
+    "location": "Westwood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Luv2eat Thai Bistro",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Hollywood  ",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Maggianos Banquet Dept",
+    "fees": [
+      {
+        "percentage": "18",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "They say it goes to paying the staff, that are paid hourly, and they discourage guests from tipping. The manager's rationale, tipping on top of the service fee wont be a good value for the customer."
+    ],
+    "location": "",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Majordomo",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "BOH Service Charge"
+    ],
+    "location": "Dogtown (Elysian Park)",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Mama Shelter Rooftop Bar",
+    "fees": [
+      {
+        "percentage": "21"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% Service Charge + 3% Health Charge \"A 3% charge will be added to your check to help provide healthcare benefits For our employees...\""
+    ],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Manuela",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"A 4% service charge will be added to each guest check to help ensure all our staff are given a competitive, living wage as well as continued health benefits. If you would like this charge to be removed or have any questions regarding the charge, please inform our staff or a manager.\""
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Manzke",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Submitted as a current employee. Our parent company, Sprout LA is unable to provide employees with proof of where this money goes or how it is accounted for. I believe it is the businesses responsibility to pay for benefits, not the guests."
+    ],
+    "location": "Beverly Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Marco's Trattoria",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "surcharge for dine-in only"
+    ],
+    "location": "WeHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Margot",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Culver City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Marina",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\u201cA 3% service charge will be added to your check to support competitive kitchen wages and health care. This is not a gratuity"
+    ],
+    "location": "Pasadena",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Marina",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"to support competitive kitchen wages & healthcare,\" but they will remove the charge upon request"
+    ],
+    "location": "Pasadena",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Marvin French Bistro",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% Service Charge...  used to help pay freont of house, kitchen & managers. Extra gratuity goes to the servers\""
+    ],
+    "location": "Beverly Grove",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Marvin Wine Bar",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"\u274b A 20% SERVICE CHARGE IS ADDED TO ALL CHECKS. THIS IS USED TO HELP PAY FRONT OF HOUSE, KITCHEN & MANAGERS. EXTRA GRATUITY GOES TO THE SERVERS. \u274b\""
+    ],
+    "location": "Beverly Grove",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Max Karaoke Studio",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"...charged us a 20% gratuity, and this is not in writing anywhere.\""
+    ],
+    "location": "Little Tokyo",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Melody Wine Bar",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Employee Benefit"
+    ],
+    "location": "Virgil Village",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Melrose Umbrella Co",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% Autograt (parties 6 or more)"
+    ],
+    "location": "WeHo",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Met Her At A Bar",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Mid-Wilshire",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Met Him at a Bar",
+    "fees": [
+      {
+        "percentage": "3",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% Healthcare Love + 18% Brunch Autograt"
+    ],
+    "location": "La Brea",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Milo & Olive",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Santa Monica   ",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Mirabelle Wine Bar",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"To provide a competitive living wage, All checks will be charged 3% service fee If you would like this fee removed, please ask your server \""
+    ],
+    "location": "",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Mirate",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Los Feliz",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "MoMo Paradise",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Service Charge"
+    ],
+    "location": "Arcadia / Rowland Heights / Torrance",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Mother Wolf",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"5% wellness fee is added to all checks in support of health benefits for our staff, but it is not a fee for service. If you would like this fee removed, please let us know. A 20% service charge will be added to parties of six or more.\""
+    ],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Moun of Tunis",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% automatic gratuity and credit card surcharge"
+    ],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "MyVegan Gold",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% Counter Service:  we need to pay upfront in the cashier and they don't show the itemized receipt in the monitor, so no idea about the service charge."
+    ],
+    "location": "Silver Lake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "New York Bagel Co",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Brentwood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Norah",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% \"Administration fee\" whatever that is"
+    ],
+    "location": "WeHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Norms",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 3% menu surcharge will be added to all guest checks to help cover the increasing cost of doing business in California while maintaining portion sizes and everyday affordable specials.\""
+    ],
+    "location": "Multiple Locations",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Nossa Caipirinha Bar",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% \"supports equitable wages, health care, and retirement benefits\""
+    ],
+    "location": "Los Feliz",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Oceanview Cafe",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% + $1.25 fee when paying by credit card. Pay cash to receive 4% discount"
+    ],
+    "location": "Manhattan Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Olivetta",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Auto gratuity in the fine print, but you are not told by waiter"
+    ],
+    "location": "WeHo",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Openaire",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "4% CHARGE IS ADDED TO PROVIDE HEALTH INSURANCE BENEFITS FOR OUR EMPLOYEES, THIS CHARGE\r\nMAY BE REMOVED UPON REQUEST.",
+      "Employees magically disappear once you ask them to remove the charge. The service is atroscious anyways."
+    ],
+    "location": "Koreatown",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Orsa & Winston",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"fair wages\""
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Ospi",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Employee Benefit Support"
+    ],
+    "location": "Venice",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Osteria La Buca",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% Service Fee (Staff Health)"
+    ],
+    "location": "Hollywood / Sherman Oaks",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Otium",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"5% surcharge will be added to all guest checks to defray the rising cost of operating in Los Angeles. Kindly let your server know if you would like this removed.\""
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Ototo",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"an 18% fair wage and operational fee will be added to all dine-in bills. this is not a gratuity or tip.,,\""
+    ],
+    "location": "Angeleno Heights (Echo Park)",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Oto\u00f1o",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Highland Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Pablitos Tacos",
+    "fees": [
+      {
+        "percentage": "10"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "10% service fee for any order ( takeout and inside) and on top of that the prices listed are cash prices which trigger another 3% fee if you pay by card"
+    ],
+    "location": "Burbank",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Paradise Cove Beach Cafe",
+    "fees": [
+      {
+        "name":"Sustainability fee",
+        "percentage": "5"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "On two different menus, the 5% had a different name. The waitress thought Malibu required them to charge this fee."
+    ],
+    "location": "Malibu",
+    "autograt": false,
+    "sources": [
+      "Visit October 29, 2023.\n![image](photos/paradisecove.jpg)"
+    ]
+  },
+  {
+    "name": "Pasjoli",
+    "fees": [
+      {
+        "percentage": "15"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"We add a 15% service charge to your bill that is fully distributed to our hourly employees to equalize wages between\r\nour front- and back-of-house teams.\""
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Per L'ora",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"4% service charge has been added to your bill to defray the increased costs of wages and benefits\" * Submitted receipt is revised after service fee removed at patron's request",
+      "Management calls surcharge \"resort fee.\" None goes to employees"
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Perch",
+    "fees": [
+      {
+        "percentage": "4.5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4.5% safety and security fee. (Extra note: they charged us a 30% fee in 2021)",
+      "Does not go to staff"
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Perle",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"4% service charge will be added to each guest check to ensure competitive industry compensation for all of our valued team members, as well as health and medical benefits for all of our salaried team members. In support of this initiative, the entirety of the charge is retained by the company\""
+    ],
+    "location": "Pasadena",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Petit Trois",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "As of Aug 2, changed fee from 18% to 4%.",
+      "Other Comments via Reddit"
+    ],
+    "location": "Hollywood / Sherman Oaks",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Petty Cash",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"A 5% service charge will be added to each guest check to ensure competitive industry compensation, as well as health and medical benefits, for all of our valued full time team members. In support of this initiative, the entirety of the charge is retained by the company. If you would like this charge removed, please let our staff know.\"",
+      "Asked server and he said that it does go to employees but very few are fulltime. Also said he would never work somewhere that was 'shady'"
+    ],
+    "location": "Fairfax",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Pez Cantina",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% Kichen Charge"
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Picalilli",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% Kitchen Love \"...for the back of house to help combat competitive living wages\" 20% autograt for parties 6 or more"
+    ],
+    "location": "Culver City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Pijja Palace",
+    "fees": [
+      {
+        "percentage": "19"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A service charge of 19% is added to your final check\"",
+      "Very rude owner, tells people to GTFO if you refuse to pay flat service fee"
+    ],
+    "location": "Silverlake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Pine & Crane",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"We add a 3% surcharge to subsidize healthcare for our employees. If you would like it removed, please simply let a team member know. Your support is greatly appreciated.\""
+    ],
+    "location": "Silverlake / DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Pitfire Pizza",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"...3% Happy + Healthy Surcharge to your bill to support sustainable earnings and benefits for our team. This charge is optional so please let us know if you\u2019d like it removed from your bill.\""
+    ],
+    "location": "Various",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Pizza Coast Highway",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% Local Surcharge"
+    ],
+    "location": "Redondo Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Pizza Hut",
+    "fees": [
+      {
+        "percentage": "?"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"The service fee partially offsets the increased cost of operations in the state of California\""
+    ],
+    "location": "Chain",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Pomodoro",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "New 3% surcharge has been added to checks without warning if paying with credit cards. This is to offset transaction fees."
+    ],
+    "location": "Westwood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Prince Street Pizza",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Service Charge"
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Pura Vita",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "WeHo / Redondo Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Queen Street",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% Serrvice Charge \"We firmly believe that the future of restaurants will reflect the international model, where staff is not reliant on gratuities from guests, and earnings are more stable.  The service charge model is the first step in this process, and we hope to lead the way as progressive operators.\""
+    ],
+    "location": "Eagle Rock",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Queen Violet",
+    "fees": [
+      {
+        "percentage": "16",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "16% Autograt",
+      "From management: \"It\u2019s an automatic tip to employees NOT restaurant, we just wanted to guarantee tip to all workers including kitchen.\""
+    ],
+    "location": "WeHo",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Red House KBBQ",
+    "fees": [
+      {
+        "percentage": "18",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"...when they bring you bill as it has a space for tip and if you didn't know they already include the tip...\""
+    ],
+    "location": "Cerritos",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Redbird",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% staff healthcare charge plus 20% autograt for parties of 6 or more"
+    ],
+    "location": "Arts District",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Redbird (Events)",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Guests are charged for event labor, (that includes the servers' flat fee), and then get an additional 20-25% \"Service fee\", which is kept by the restaurant and does not go to staff.\"",
+      "Service fee not explained on the receipt. Management says they verbally tell guests when signing the initial contract that service fees do not cover tips."
+    ],
+    "location": "",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Ronan",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Melrose",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Rosalin\u00e9",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"As a non-tipping restaurant, Rosaline adds a 20% administrative fee to all checks. This is not a service charge or gratuity and supports higher wages and benefits for our hourly team. If you have questions about this fee, please ask for a manager.\""
+    ],
+    "location": "West Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Rossoblu",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"In order to support our dedicated kitchen team, and to help provide benefits for all eligible team members, a 4% surcharge is added to all guest checks. Please note that this surcharge is not distributed to the service staff.\""
+    ],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Ruby Fruit",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"4% Security Fee is added to every check to ensure the safefty of our guests and staff.\""
+    ],
+    "location": "Silverlake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Rustic Canyon",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 4% charge is added by the restaurant to all checks to help offer fully covered healthcare to our employees. Please let us know if you have questions. Thanks for supporting a healthier staff!!\""
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "R\u00e9publique",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Republique charges the 4% healthy LA fee instead of raising prices because the rent of their building is based on sales. What I can say is most employees are full time and when I worked their did take part in the health plan. However, they switched to Aetna from Kaiser and it sucked.\""
+    ],
+    "location": "La Brea",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "SHIN",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Health Insurance for employeeS"
+    ],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "SOL Mexican Cocina",
+    "fees": [
+      {
+        "percentage": "3.99"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"To help offset increased labor costs due to new local, state, and federal ordinances, a 3.99% surcharge is included on all guest checks.\""
+    ],
+    "location": "Playa Vista",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Saffy's ",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 4% service charge will be added to each guest check to ensure competitive industry compensation, as well as health and medical benefits, for all of our valued full time team members. In support of this initiative, the entirety of the charge is retained by the restaurant.\""
+    ],
+    "location": "East Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Salsa & Beer",
+    "fees": [
+      {
+        "percentage": "3.95"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Customer Assistance\" fee"
+    ],
+    "location": "NoHo / Lake Balboa",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Saltie Girl",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"An 18% service charge will be added to all checks. this goes to cover wages for all staff and full medical benefits to all full-time employees. if you have any questions, please feel free to reach out to us.\" (NOT A TIP)"
+    ],
+    "location": "Echo Park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Saltie Girl",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "West Hollywood  ",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "San Pedro Fish Market",
+    "fees": [
+      {
+        "percentage": "3.50"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "for \u201cemployee benefits\u201d however svc charge can be removed upon request"
+    ],
+    "location": "Long Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Santa Monica Brew Works",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% Service Fee (all tabs)"
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Santauri",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"4% Service Charge to assist in prociding health care overage and livable wage...\""
+    ],
+    "location": "Toluca Lake ",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Sari Sari Store",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Healthy LA"
+    ],
+    "location": "Grand Central Market (DTLA)",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Seapphire, Cellar. Craft. Cook",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Undisclosed Service Fee"
+    ],
+    "location": "Laguna Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Socalo",
+    "fees": [
+      {
+        "percentage": "2"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\u201cA 2% fee is added by the restaurant to all guest checks. This is not a gratuity or tip, and is not for services provided by employees or otherwise payable to the employees.\u201d"
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Son of a Gun",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Beverly Grove",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Soulmate",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% \"WeHo competetive industry compensation\" + 20% Service Charge (parties 6 or more)"
+    ],
+    "location": "WeHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Speranza",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Other customers have gotten 20% surcharge and staff was very vague in what it was for just that it was not tip."
+    ],
+    "location": "Silver Lake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Stella Barra",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"As a way to offset rising costs associated with the restaurant (food, beverage, supplies), we have added a 3% surcharge to all checks. We do this in lieu of increased menu prices. This charge is not a gratuity paid to staff and is not a payment for services rendered.\""
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Stout Burgers & Beers",
+    "fees": [
+      {
+        "percentage": "3.5"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"Healthy LA - A 3.5 % charge is added to every check to assist in providing healthcare benefits to our employees. Thank you for supporting a healthier and happier workplace. If you would like the charge removed, please let us know.\""
+    ],
+    "location": "Multiple Locations",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Sugarfish",
+    "fees": [
+      {
+        "percentage": "16",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 16% fee will be added to your bill\u2014\r\nThis is not a gratuity or tip. We are a no-tipping establishment. The fee is revenue that is not segmented or designated in any way; it is taxed per state law and is used to fund all of our operations.\" / $9.20 \u201cstandard sugarfish fee\u201d when ordering Postmates"
+    ],
+    "location": "Multiple Locations",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Sushi Planet",
+    "fees": [
+      {
+        "percentage": "7"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "7% Service Charge"
+    ],
+    "location": "Woodland Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "SusieCakes",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% \"HealthyTeam\" surcharge"
+    ],
+    "location": "La Brea",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Sutdio Cafe",
+    "fees": [
+      {
+        "percentage": "3.95"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"3.95% surcharge added to help with rising minimum wage\""
+    ],
+    "location": "Studio City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Sweettee Thai",
+    "fees": [
+      {
+        "percentage": "10"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "10% Service charge on takeout orders"
+    ],
+    "location": "Artesia",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Sycamore Kitchen",
+    "fees": [
+      {
+        "percentage": "10"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Fairfax",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Tacos Tu Madre",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% surcharge for healthcare + benefits for full time staff"
+    ],
+    "location": "Westwood / WeHo / Larchmont / Los Feliz",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Tallula's",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 4% charge is added by the restaurant to all checks to help offer fully covered health care to all employees.\r\nPlease let us know if you have any questions. Thank you for supporting a healthier staff!\""
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Tartine Bakery",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 4% surcharge will be added to all food and beverage sales in support of employee benefits.\""
+    ],
+    "location": "Multiple Locations",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Tartine Bianco",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "DTLA",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Taverna at The Mar Vista",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "4% Credit Card Fee"
+    ],
+    "location": "Mar Vista",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Teleferic Barcelona",
+    "fees": [
+      {
+        "percentage": "18",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "18% Service Charge Included gratuity. Can add extra when signing."
+    ],
+    "location": "Brentwood",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Tenno Sushi",
+    "fees": [
+      {
+        "percentage": "10"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Take-Out\" fee. you dont realize theyre charging you this until you check your e-receipt. This is in addition to tipping."
+    ],
+    "location": "Little Tokyo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Terroni Italian Cuisine",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 4% service charge will be added to ensure competitive industry compensation for our valued kitchen staff\""
+    ],
+    "location": "Fairfax district",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Thai Original BBQ",
+    "fees": [
+      {
+        "percentage": "15",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Tax charged post-tip (15% Autograt)"
+    ],
+    "location": "Wilshire Center",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Albright",
+    "fees": [
+      {
+        "percentage": "10"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "10% \ud83e\udd37\u200d\u2640\ufe0f Fee, Report: \"I wasn't asked to tip on top of the fee.\""
+    ],
+    "location": "Santa Monica Pier",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Black Cat",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "An optional 4% charge added to pay workers a living wage."
+    ],
+    "location": "Silver Lake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Butcher's Daughter",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"AN OPTIONAL 3% HEALTH AND WELLNESS FEE HAS BEEN ADDED TO THE BILL TO SUPPORT HEALTH INSURANCE FOR OUR STAFF.\""
+    ],
+    "location": "Venice Beach / West Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Coffee Company",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% surcharge when ordering via app"
+    ],
+    "location": "Westchester",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Misfit ",
+    "fees": [
+      {
+        "percentage": "4"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 4% charge is added to all checks that will be distributed entirely to our hardworking kitchen staff.\"",
+      "4% does go to the employees, but the owner pays the employees 4% less now."
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Morrison",
+    "fees": [
+      {
+        "percentage": "2.9"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Atwater Village / Burbank",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Rose",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": true,
+    "comments": [
+      "\"A 5% charge will be added to your check to help cover the cost of health care benefits that we offer our full time employees. Thank you for supporting our staff. If you would like this charge removed, please let your server know and the charge will be removed.\""
+    ],
+    "location": "Venice Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Semi-Tropic",
+    "fees": [
+      {
+        "percentage": ""
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "owners keep significant portion of tips"
+    ],
+    "location": "echo park",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Sherman",
+    "fees": [
+      {
+        "percentage": "4.5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\u201c\u2026to help cover the cost of health benefits and wages for our staff\u201d.  20% autograt for parties 6 or more (receipt will still recommend full 20-25% add'l tip)"
+    ],
+    "location": "Sherman Oaks",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Six",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"3% surcharge has been added to your check\""
+    ],
+    "location": "Studio City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Sun Rose",
+    "fees": [
+      {
+        "percentage": "18",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "WeHo",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Terrace @ Marbourne Hotel",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"For your convenience, a 20% service charge will be added\" during Breakfast, Brunch, and large Lunch & Dinner parties"
+    ],
+    "location": "Beverly Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Terrace at Marybourne",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% service charge"
+    ],
+    "location": "Beverly Hills",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Waffle",
+    "fees": [
+      {
+        "percentage": "5.00"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "The Warehouse Restaurant ",
+    "fees": [
+      {
+        "percentage": "15"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Marina del Rey",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Tipsy Cow",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% service charge fee \"retained by restaurant\""
+    ],
+    "location": "Sherman Oaks",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Tsubaki",
+    "fees": [
+      {
+        "percentage": "18"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Culver City",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Tu Madre",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "5% Service Charge"
+    ],
+    "location": "Santa Monica",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Un Solo Sol",
+    "fees": [
+      {
+        "percentage": "",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [],
+    "location": "Boyle Heights",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Uovo",
+    "fees": [
+      {
+        "percentage": "16",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"No tipping\" establishment"
+    ],
+    "location": "MdR, Santa Monica, Wilshire",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Urban Plates",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Order, then go to check out and it will show the 3%. Not a tip."
+    ],
+    "location": "",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Vino Wine & Tapas Room",
+    "fees": [
+      {
+        "percentage": "3.8 for CC"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"Prices reflect cash pricing. A 3.8% fee is charged for all credit card transactions. 20% gratuity is charged for parties of 5 or more and checks over $200\""
+    ],
+    "location": "Encino",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Vitello's",
+    "fees": [
+      {
+        "percentage": "3.50"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3.5% Kitchen appreciation fee (removable by request)"
+    ],
+    "location": "NoHo",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Win~dow",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "3% Happy & Healthy Surcharge"
+    ],
+    "location": "Venice",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Wolfsglen",
+    "fees": [
+      {
+        "percentage": "3.00"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"3% surcharge. This is not a service charge or gratuity and will not be paid to your. server.\" \"20% gratuity will be added to parties of 6 or greater\""
+    ],
+    "location": "Westwood Village",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Wong's Wok",
+    "fees": [
+      {
+        "percentage": ""
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Word is, owners keep Credit Card tips"
+    ],
+    "location": "Silverlake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Wood Pizza",
+    "fees": [
+      {
+        "percentage": "3"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Including pick-up orders"
+    ],
+    "location": "Silver Lake",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Xuntos",
+    "fees": [
+      {
+        "percentage": "20",
+        "name": "autograt"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "20% service charge per them \"non-negotiable.\""
+    ],
+    "location": "Santa Monica",
+    "autograt": true,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Yang's Kitchen",
+    "fees": [
+      {
+        "percentage": "1"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"1% ZFP Restore the Planet fee is added to your bill to help restore the planet and combat climate change. You can opt out of this fee if you\u2019d like\""
+    ],
+    "location": "Alhambra",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Zuzu's Pretzels",
+    "fees": [
+      {
+        "percentage": "5"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"A 5% service charge will be added to each guest check to ensure competitive industry compensation for all of our valued full time team members. In support of this initiative, the entirety of the charge is retained by the company.\""
+    ],
+    "location": "Long Beach",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "iRoll Ice Cream",
+    "fees": [
+      {
+        "percentage": "$1"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "$1 Service Fee is added on each ice cream"
+    ],
+    "location": "North Hollywood",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "n10 Restaurant",
+    "fees": [
+      {
+        "percentage": "20"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "\"20% service charge will be added to the bill\""
+    ],
+    "location": "Beverly Grove",
+    "autograt": false,
+    "sources": [
+      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+    ]
+  },
+  {
+    "name": "Coastal",
+    "fees": [
+      {
+        "name": "Service & safety fee",
+        "percentage": "2"
+      }
+    ],
+    "removable": false,
+    "comments": [
+      "Per the owner: Required to provide additional services for our employees. Helps with accounting keeping it as a separate fee. Have to provide support services for burnout, such as counseling. Not health insurance."
+    ],
+    "location": "Hermosa Beach",
+    "autograt": false,
+    "sources": [
+      "Visit on November 10, 2023.\n![image](photos/coastal.jpg)"
+    ]
+  }
+]

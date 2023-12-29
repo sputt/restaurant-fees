@@ -26,12 +26,6 @@
                 <span class="md-title">{{ title }}</span>
             </md-app-toolbar>
             <md-app-drawer :md-active.sync="show_navigation" md-swipeable>
-                  <md-toolbar class="md-transparent" md-elevation="0">
-                    <div class="app-logo">
-                        <div class="primary-dollar">$</div>
-                        <div class="sub-dollars">$$$$</div>
-                    </div>
-                  </md-toolbar>
                 <md-list>
                     <md-list-item to="/home" @click="show_navigation = false">
                         <md-icon>restaurant</md-icon>

@@ -16,7 +16,7 @@ class Restaurant(BaseComponent):
 
     async def fetch_listing(self):
         self.fetching = True
-        resp = await fetch("restaurants.json")
+        resp = await fetch("los_angeles_restaurants.json")
         listing_data = await resp.json()
         self.fetching = False
         for item in listing_data:

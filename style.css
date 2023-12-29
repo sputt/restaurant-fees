@@ -110,10 +110,79 @@ html, body, #app {
     opacity: 1;
     height: 200px;
     overflow: hidden;
+    clear: both;
+    background-color: rgba(255, 255, 255, 0.8);
+    text-shadow: 1px 1px 2px white;
+    margin: -4px;
+    padding: 4px;
+    z-index: 2;
 }
 
 .expand-enter,
 .expand-leave-to {
     height: 0;
     opacity: 0;
+}
+
+.background-image {
+
+
+    min-height: 100%;
+
+    width: 100%;
+
+    position: fixed;
+    top: 40px;
+    left: 0;
+    z-index: 0;
+    height: 40px;
+}
+
+.top-bar {
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-left: -16px;
+    margin-right: -16px;
+    background-color: transparent;
+
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 1;
+}
+
+.logo-bar {
+    background: url(lapalm.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    margin-left: -16px;
+    margin-right: -16px;
+    margin-top: -16px;
+    padding: 45px 16px;
+
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    z-index: 2;
+    color: white;
+    /* offset-x | offset-y | blur-radius | color */
+    text-shadow: 1px 1px 2px black;
+}
+
+.logo-container {
+    width: 40px;
+}
+
+.title-container {
+    width: 300px;
+    font-size: 39px;
+    text-align: center;
+    line-height: 65px;
+    font-weight: bold;
+}
+
+.autograt-chip {
+    background-color: lightyellow !important;
 }

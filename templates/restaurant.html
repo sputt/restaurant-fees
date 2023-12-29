@@ -1,15 +1,11 @@
 <md-content class="restaurant-card">
     <div v-if="restaurant">
-        <span class="md-headline">{{restaurant.name}}</span>
         <p class="md-subheading">{{restaurant.location}}</p>
-        <p class="md-body-1">
-            {{restaurant.description}}
-        </p>
         <header class="md-subheading">Fees</header>
-        <ul>
-            <li v-for="fee in processed_fees">{{fee}}</li>
-        </ul>
-        <header v-if="restaurant.comments" class="md-subheading">Comments</header>
+        <p class="md-body-1">
+            <fee-pill v-for="fee in restaurant.fees" v-bind:key="fee.name" :fee="fee"></fee-pill>
+        </p>
+        <header v-if="restaurant.comments.length" class="md-subheading">Comments</header>
         <div v-for="comment in restaurant.comments">
             <p class="md-body-1">
                 {{comment}}
@@ -18,6 +14,10 @@
         <header class="md-subheading">Removable</header>
         <p class="md-body-1">
             {{restaurant.removable ? 'Yes' : 'No'}}
+        </p>
+        <header class="md-subheading">Sources</header>
+        <p class="md-body-1">
+            <vue-markdown v-for="source in restaurant.sources">{{source}}</vue-markdown>
         </p>
     </div>
 </md-content>
