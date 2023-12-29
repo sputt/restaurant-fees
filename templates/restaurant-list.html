@@ -14,15 +14,17 @@
         </tr>
     </table>
 </md-content>
-<md-content>
-    <p>Many restaurants have been raising prices via hidden fees instead of increasing
-        their menu prices.</p>
-    <p>This practice is dishonest and unfair to the consumer. Help fight these fees by
-        avoiding restaurants
-        that engage in this practice or asking for the fee to be removed from your
-        bill.</p>
-    <p>See <a href="#/faq">the FAQ</a> for more details.</p>
-</md-content>
+<transition name="expand">
+    <md-content v-show="!filter" class="box">
+        <p>Many restaurants have been raising prices via hidden fees instead of increasing
+            their menu prices.</p>
+        <p>This practice is dishonest and unfair to the consumer. Help fight these fees by
+            avoiding restaurants
+            that engage in this practice or asking for the fee to be removed from your
+            bill.</p>
+        <p>See <a href="#/faq">the FAQ</a> for more details.</p>
+    </md-content>
+</transition>
 <md-content>
     <md-table v-model="filtered_restaurants"
               :md-sort.sync="current_sort"
@@ -44,9 +46,7 @@
                     {{ item.name }}
                 </md-table-cell>
                   <md-table-cell md-label="Fees" md-sort-by="fees" md-numeric>
-                    <span v-for="fee in item.fees">
-                        {{ fee.percentage }}%
-                    </span>
+                      <span>{{ fee_display(item) }}</span>
                 </md-table-cell>
             </router-link>
 

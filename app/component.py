@@ -111,7 +111,6 @@ class BaseComponent(metaclass=ComponentMeta):
                 kwargs[prop] = getattr(component, prop)
 
             self = cls(**kwargs)
-            self.logger.info("Calling create state")
 
             result = self._create_state(component, all_methods, all_computed)
             if __envir__.executor_name != "transcrypt":
@@ -145,7 +144,6 @@ class BaseComponent(metaclass=ComponentMeta):
                         if isinstance(getattr(cls, attr), property):
                             all_computed[attr] = getattr(cls, attr).fget
 
-                print("Resolving creator: {}".format(cls.__name__))
                 resolved_template = await cls.template()
                 if not resolved_template:
                     reject(ValueError("Must provide a template"))

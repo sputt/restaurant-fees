@@ -1,4 +1,5 @@
 from component import BaseComponent
+from fee import process_fees
 from stubs import fetch_template, fetch
 
 
@@ -22,6 +23,10 @@ class Restaurant(BaseComponent):
             if item["name"] == self.ident:
                 self.restaurant = item
                 break
+
+    @property
+    def processed_fees(self):
+        return process_fees(self.restaurant["fees"])
 
     @staticmethod
     async def template():

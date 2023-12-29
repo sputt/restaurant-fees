@@ -101,3 +101,19 @@ html, body, #app {
   text-overflow: ellipsis;
   overflow: hidden;
 }
+
+
+
+
+.box {
+    transition: all 0.3s ease-in-out;
+    opacity: 1;
+    height: 200px;
+    overflow: hidden;
+}
+
+.expand-enter,
+.expand-leave-to {
+    height: 0;
+    opacity: 0;
+}

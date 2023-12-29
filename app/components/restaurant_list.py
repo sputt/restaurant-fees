@@ -1,6 +1,7 @@
 import logging
 
 from component import BaseComponent
+from fee import process_fees
 from stubs import fetch_template, fetch
 
 from routes import router
@@ -35,6 +36,12 @@ class RestaurantList(BaseComponent):
         self.not_yet_filtered = False
         self.filter = None
         self.filtered_restaurants = list(self.restaurants)
+
+    def fee_display(self, value):
+        results = process_fees(value["fees"])
+        if len(results) < 1:
+            return ""
+        return results[0]
 
     def custom_sort(self, value):
         reverse = self.current_sort_order == "desc"

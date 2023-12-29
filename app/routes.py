@@ -25,21 +25,21 @@ routes = [
         "name": "home",
         "path": "*",
         "component": HomeComponent,
-        "meta": {"title": "Restaurant Fees"},
+        "meta": {"title": "Los Angeles", "scroll_to": {"top": 0}},
     },
     {
         "path": "/restaurant/:ident",
         "component": RestaurantComponent,
         "props": True,
         "meta": {
-            "title": "Restaurant Fees",
+            "title": "",
         },
     },
     {
         "path": "/faq",
         "component": FAQComponent,
         "meta": {
-            "title": "Restaurant Fees - FAQ",
+            "title": "FAQ",
         },
     },
     {
@@ -52,11 +52,21 @@ routes = [
 ]
 
 
-def scroll_behavior(scroll_to, scroll_from, saved_position):
-    if saved_position:
-        return saved_position
+def scroll_behavior(to_route, from_route, saved_position):
+    el = document.querySelector(".md-app-container")
+    if not el:
+        return
+    if "meta" in to_route and "scroll_to" in to_route["meta"]:
+        el.scrollTop = to_route["meta"]["scroll_to"]["top"]
 
-    return {"top": 0}
+
+def before_each(to_route, from_route, next_route):
+    el = document.querySelector(".md-app-container")
+    if not el:
+        return next_route()
+    if "meta" in from_route and "scroll_to" in from_route["meta"]:
+        from_route["meta"]["scroll_to"]["top"] = el.scrollTop
+    return next_route()
 
 
 router = None
@@ -69,3 +79,4 @@ if VueRouter:
             }
         )
     )
+    router.beforeEach(before_each)

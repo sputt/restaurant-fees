@@ -1,19 +1,18 @@
 <md-content class="restaurant-card">
     <div v-if="restaurant">
         <span class="md-headline">{{restaurant.name}}</span>
+        <p class="md-subheading">{{restaurant.location}}</p>
         <p class="md-body-1">
             {{restaurant.description}}
         </p>
         <header class="md-subheading">Fees</header>
-        <p class="md-body-1">
-            <span v-for="fee in restaurant.fees">
-                {{fee.name}} - {{fee.percentage}}%
-            </span>
-        </p>
-        <div v-if="restaurant.comments">
-            <header class="md-subheading">Comments</header>
+        <ul>
+            <li v-for="fee in processed_fees">{{fee}}</li>
+        </ul>
+        <header v-if="restaurant.comments" class="md-subheading">Comments</header>
+        <div v-for="comment in restaurant.comments">
             <p class="md-body-1">
-                {{restaurant.comments}}
+                {{comment}}
             </p>
         </div>
         <header class="md-subheading">Removable</header>
