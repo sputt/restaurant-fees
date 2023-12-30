@@ -12,12 +12,20 @@ def _sanitize_comment(comment: str) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("csv_file", type=Path, help="Path to the CSV file to process.")
+    parser.add_argument(
+        "manual_file", type=Path, help="Path to the manual JSON additions/overrides."
+    )
     parser.add_argument("output_file", type=Path, help="Output JSON file to write to.")
 
     parsed_args = parser.parse_args()
 
+    with parsed_args.manual_file.open(encoding="utf-8") as fh:
+        manual_data = json.load(fh)
+
     data = []
     reader = DictReader(parsed_args.csv_file.open(encoding="utf-8", newline=""))
+
+    index = {}
     for row in sorted(reader, key=lambda item: item["Restaurant Name"]):
         if not row["Restaurant Name"].strip():
             continue
@@ -58,6 +66,13 @@ def main() -> None:
                 ],
             }
         )
+        index[row["Restaurant Name"]] = data[-1]
+
+    for item in manual_data["add"]:
+        if item["name"] in index:
+            index[item["name"]].update(item)
+        else:
+            data.append(item)
 
     with parsed_args.output_file.open("w", encoding="utf-8") as fh:
         json.dump(data, fh, indent=2)

@@ -1310,12 +1310,12 @@
     ],
     "removable": false,
     "comments": [
-      "\"To help offset increased labor costs due to new local, state, and federal ordinances, a 3.5% surcharge is included on all guest checks.\""
+      "Not mentioned on the menu, but the restaurant had a plaque up front at the host station. The manager explained it was corporate policy and could not remove the fee, but she did discount the check to compensate."
     ],
     "location": "Hawthorne / MdR / Santa Monica",
     "autograt": false,
     "sources": [
-      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+      "Visit October, 2023"
     ]
   },
   {
@@ -3274,7 +3274,7 @@
     "name": "Paradise Cove Beach Cafe",
     "fees": [
       {
-        "name":"Sustainability fee",
+        "name": "Sustainability fee",
         "percentage": "5"
       }
     ],
@@ -3285,7 +3285,7 @@
     "location": "Malibu",
     "autograt": false,
     "sources": [
-      "Visit October 29, 2023.\n![image](photos/paradisecove.jpg)"
+      "Visit October 29, 2023\n![image](photos/paradisecove.jpg)"
     ]
   },
   {
@@ -4843,7 +4843,7 @@
     "location": "Hermosa Beach",
     "autograt": false,
     "sources": [
-      "Visit on November 10, 2023.\n![image](photos/coastal.jpg)"
+      "Visit on November 10, 2023\n![image](photos/coastal.jpg)"
     ]
   }
 ]
