@@ -52,8 +52,10 @@
             <span>Or <a href="#" @click="show_all()">click here</a> to show all.</span>
         </md-table-empty-state>
         <md-table-empty-state v-else
-                md-label="No restaurants found"
-                :md-description="`No restaurants found for this '${filter}' query. Try a different search term.`">
+                md-label="No restaurants found">
+            <span>If you have recently visited and have a receipt or menu image,
+                <a :href="'https://docs.google.com/forms/d/e/1FAIpQLScx-IErAbv9aaEqTNshMai6c1E8FPNxJdgzjeK6n-e0KQV0Rg/viewform?entry.1528293531=' + encodeURI(filter)">click here</a> to add</span>
+                this restaurant.
         </md-table-empty-state>
     </md-table>
     <p class="md-caption">

@@ -55,7 +55,7 @@
     "fees": [
       {
         "percentage": "18",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -176,7 +176,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -278,7 +278,7 @@
     "fees": [
       {
         "percentage": "24",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": true,
@@ -390,7 +390,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -512,7 +512,7 @@
     "fees": [
       {
         "percentage": "18",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -697,7 +697,7 @@
     "fees": [
       {
         "percentage": "22",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -834,7 +834,7 @@
     "fees": [
       {
         "percentage": "18",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": true,
@@ -988,7 +988,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -1392,7 +1392,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -1444,7 +1444,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -1530,7 +1530,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -1548,7 +1548,7 @@
     "fees": [
       {
         "percentage": "15-20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -1681,7 +1681,7 @@
     "fees": [
       {
         "percentage": "18",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -1699,7 +1699,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -1733,7 +1733,7 @@
     "fees": [
       {
         "percentage": "6",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -1783,7 +1783,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -1816,7 +1816,7 @@
     "fees": [
       {
         "percentage": "16.5",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -2220,7 +2220,7 @@
     "fees": [
       {
         "percentage": "18",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -2272,7 +2272,7 @@
     "fees": [
       {
         "percentage": "16",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -2503,7 +2503,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -2568,7 +2568,7 @@
     "fees": [
       {
         "percentage": "18-20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -2652,7 +2652,7 @@
     "fees": [
       {
         "percentage": "18",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -2838,7 +2838,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -2873,7 +2873,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -2906,7 +2906,7 @@
     "fees": [
       {
         "percentage": "3",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -3122,7 +3122,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -3280,7 +3280,7 @@
     ],
     "removable": true,
     "comments": [
-      "On two different menus, the 5% had a different name. The waitress thought Malibu required them to charge this fee."
+      "On two different menus, the 5% had a different name."
     ],
     "location": "Malibu",
     "autograt": false,
@@ -3585,7 +3585,7 @@
     "fees": [
       {
         "percentage": "16",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -3604,7 +3604,7 @@
     "fees": [
       {
         "percentage": "18",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -4042,7 +4042,7 @@
     "fees": [
       {
         "percentage": "16",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -4226,7 +4226,7 @@
     "fees": [
       {
         "percentage": "18",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -4278,7 +4278,7 @@
     "fees": [
       {
         "percentage": "15",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -4465,7 +4465,7 @@
     "fees": [
       {
         "percentage": "18",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -4594,7 +4594,7 @@
     "fees": [
       {
         "percentage": "",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -4610,7 +4610,7 @@
     "fees": [
       {
         "percentage": "16",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,
@@ -4747,7 +4747,7 @@
     "fees": [
       {
         "percentage": "20",
-        "name": "autograt"
+        "name": "Gratuity"
       }
     ],
     "removable": false,

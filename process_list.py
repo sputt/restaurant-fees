@@ -51,7 +51,7 @@ def main() -> None:
 
         fee_obj = {"percentage": row["Fee %"].replace("%", "")}
         if autograt:
-            fee_obj["name"] = "autograt"
+            fee_obj["name"] = "Gratuity"
 
         data.append(
             {

@@ -1,23 +1,34 @@
 <md-content class="restaurant-card">
     <div v-if="restaurant">
         <p class="md-subheading">{{restaurant.location}}</p>
-        <header class="md-subheading">Fees</header>
+        <header class="md-headline">Fees</header>
         <p class="md-body-1">
             <fee-pill v-for="fee in restaurant.fees" v-bind:key="fee.name" :fee="fee"></fee-pill>
         </p>
-        <header v-if="restaurant.comments.length" class="md-subheading">Comments</header>
+        <header v-if="restaurant.comments.length" class="md-headline">Comments</header>
         <div v-for="comment in restaurant.comments">
             <p class="md-body-1">
                 {{comment}}
             </p>
         </div>
-        <header class="md-subheading">Removable</header>
+        <header class="md-headline">Removable</header>
         <p class="md-body-1">
             {{restaurant.removable ? 'Yes' : 'No'}}
         </p>
-        <header class="md-subheading">Sources</header>
+        <header class="md-headline">Sources</header>
         <p class="md-body-1">
             <vue-markdown v-for="source in restaurant.sources">{{source}}</vue-markdown>
+        </p>
+        <header class="md-headline">Corrections</header>
+        <p class="md-body-1">
+            <ul>
+        <li>            <a :href="edit_forms_link">
+                Submit a correction
+            </a> (Google Forms)</li>
+        <li>
+            <a :href="remove_forms_link">Request removal</a> (Google Forms)
+        </li>
+    </ul>
         </p>
     </div>
 </md-content>
