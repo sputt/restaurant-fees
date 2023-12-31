@@ -1,2 +1,2 @@
 <md-chip class="autograt-chip" v-if="fee.name === 'autograt' || fee.name === 'Gratuity'">Auto-gratuity - {{value}}</md-chip>
-<span v-else>{{value}}</span>
+<span v-else><span v-if="show_name && fee.name">{{fee.name}} - </span>{{value}}</span>

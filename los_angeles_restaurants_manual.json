@@ -52,7 +52,31 @@
       "sources": [
         "Visit October, 2023"
       ]
+    },
+    {
+      "name": "Pizza Hut",
+      "fees": [
+        {
+          "name": "Service fee",
+          "percentage": "8.5"
+        }
+      ],
+      "removable": false,
+      "comments": [
+        "\"The service fee partially offsets the increased cost of operations in the state of California.\""
+      ],
+      "location": "Multiple",
+      "autograt": false,
+      "sources": [
+        "Visit December 31, 2023\n![image](photos/pizzahut_receipt.png)\n![image](photos/pizzahut_servicefee.png)"
+      ]
     }
   ],
-  "remove": []
+  "remove": [
+    "Un Solo Sol",
+    "The Semi-Tropic",
+    "Wong's Wok",
+    "Goodboy Bob Coffee (GBB)",
+    "Le Cellar"
+  ]
 }

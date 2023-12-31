@@ -25,9 +25,13 @@ def main() -> None:
     data = []
     reader = DictReader(parsed_args.csv_file.open(encoding="utf-8", newline=""))
 
+    removes = set(manual_data["remove"])
     index = {}
     for row in sorted(reader, key=lambda item: item["Restaurant Name"]):
         if not row["Restaurant Name"].strip():
+            continue
+
+        if row["Restaurant Name"] in removes:
             continue
 
         comments = []

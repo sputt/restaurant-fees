@@ -1,9 +1,16 @@
 <md-content class="restaurant-card">
-    <div v-if="restaurant">
+    <div v-if="!fetching && !restaurant">
+        <header class="md-headline">No known fees for this restaurant</header>
+        <p class="md-body-1">If you have recently visited and have a receipt or menu image,
+            <a :href="'https://docs.google.com/forms/d/e/1FAIpQLScx-IErAbv9aaEqTNshMai6c1E8FPNxJdgzjeK6n-e0KQV0Rg/viewform?entry.1528293531=' + encodeURI(ident)">click here</a> to add
+            this restaurant.
+        </p>
+    </div>
+    <div v-else-if="restaurant">
         <p class="md-subheading">{{restaurant.location}}</p>
         <header class="md-headline">Fees</header>
         <p class="md-body-1">
-            <fee-pill v-for="fee in restaurant.fees" v-bind:key="fee.name" :fee="fee"></fee-pill>
+            <fee-pill v-for="fee in restaurant.fees" v-bind:key="fee.name" :fee="fee" :show_name="true"></fee-pill>
         </p>
         <header v-if="restaurant.comments.length" class="md-headline">Comments</header>
         <div v-for="comment in restaurant.comments">

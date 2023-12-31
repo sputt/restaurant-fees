@@ -27,6 +27,7 @@ class Restaurant(BaseComponent):
         super().__init__()
         self.ident = ident
         self.restaurant = None
+        self.fetching = True
 
     async def mounted(self):
         await self.fetch_listing()

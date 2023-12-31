@@ -4,11 +4,12 @@ from stubs import fetch_template, fetch
 
 
 class FeePill(BaseComponent):
-    props = ["fee"]
+    props = ["fee", "show_name"]
 
-    def __init__(self, fee=None):
+    def __init__(self, fee=None, show_name=None):
         super().__init__()
         self.fee = fee
+        self.show_name = False
 
     @staticmethod
     async def template():

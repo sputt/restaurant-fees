@@ -1579,21 +1579,6 @@
     ]
   },
   {
-    "name": "Goodboy Bob Coffee (GBB)",
-    "fees": [
-      {
-        "percentage": "N/A"
-      }
-    ],
-    "removable": false,
-    "comments": [],
-    "location": "Multiple Locations",
-    "autograt": false,
-    "sources": [
-      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
-    ]
-  },
-  {
     "name": "Granada Mexican Restaurant",
     "fees": [
       {
@@ -2391,23 +2376,6 @@
       "A 3.5% service charge will be added to each guest check to ensure competitive industry compensation as well supplementing health and wellness benefits for our staff. This should not be considered gratuity for staff. If you would like this charge removed or have any questions, please let us know. Thank you for dining with us. A 10% take-out service fee is added to all to-go and online orders which goes directly to the kitchen team."
     ],
     "location": "Chinatown",
-    "autograt": false,
-    "sources": [
-      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
-    ]
-  },
-  {
-    "name": "Le Cellar",
-    "fees": [
-      {
-        "percentage": "see comment"
-      }
-    ],
-    "removable": false,
-    "comments": [
-      "Charges for bottled water ($8) after requesting tap, calculates tip on post-tax total"
-    ],
-    "location": "Pasadena",
     "autograt": false,
     "sources": [
       "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
@@ -3501,17 +3469,18 @@
     "name": "Pizza Hut",
     "fees": [
       {
-        "percentage": "?"
+        "name": "Service fee",
+        "percentage": "8.5"
       }
     ],
     "removable": false,
     "comments": [
-      "\"The service fee partially offsets the increased cost of operations in the state of California\""
+      "\"The service fee partially offsets the increased cost of operations in the state of California.\""
     ],
-    "location": "Chain",
+    "location": "Multiple",
     "autograt": false,
     "sources": [
-      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+      "Visit December 31, 2023\n![image](photos/pizzahut_receipt.png)\n![image](photos/pizzahut_servicefee.png)"
     ]
   },
   {
@@ -4410,23 +4379,6 @@
     ]
   },
   {
-    "name": "The Semi-Tropic",
-    "fees": [
-      {
-        "percentage": ""
-      }
-    ],
-    "removable": false,
-    "comments": [
-      "owners keep significant portion of tips"
-    ],
-    "location": "echo park",
-    "autograt": false,
-    "sources": [
-      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
-    ]
-  },
-  {
     "name": "The Sherman",
     "fees": [
       {
@@ -4590,22 +4542,6 @@
     ]
   },
   {
-    "name": "Un Solo Sol",
-    "fees": [
-      {
-        "percentage": "",
-        "name": "Gratuity"
-      }
-    ],
-    "removable": false,
-    "comments": [],
-    "location": "Boyle Heights",
-    "autograt": true,
-    "sources": [
-      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
-    ]
-  },
-  {
     "name": "Uovo",
     "fees": [
       {
@@ -4703,23 +4639,6 @@
       "\"3% surcharge. This is not a service charge or gratuity and will not be paid to your. server.\" \"20% gratuity will be added to parties of 6 or greater\""
     ],
     "location": "Westwood Village",
-    "autograt": false,
-    "sources": [
-      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
-    ]
-  },
-  {
-    "name": "Wong's Wok",
-    "fees": [
-      {
-        "percentage": ""
-      }
-    ],
-    "removable": false,
-    "comments": [
-      "Word is, owners keep Credit Card tips"
-    ],
-    "location": "Silverlake",
     "autograt": false,
     "sources": [
       "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
