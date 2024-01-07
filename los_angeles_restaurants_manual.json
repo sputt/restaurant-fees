@@ -70,6 +70,26 @@
       "sources": [
         "Visit December 31, 2023\n![image](photos/pizzahut_receipt.png)\n![image](photos/pizzahut_servicefee.png)"
       ]
+    },
+    {
+      "name": "Petit Trois",
+      "fees": [
+        {
+          "name": "Surcharge",
+          "percentage": "4.0"
+        }
+      ],
+      "removable": true,
+      "comments": [
+        "As of Aug 2, changed fee from 18% to 4%.",
+        "\"A 4% surcharge is added to all food and beverage sales.\nThis is not a gratuity and is retained in its entirety by the company to enable us to offer benefits to our team members.\nIf you prefer that this charge be removed, please let any member of our team know.\"",
+        "The waiter made a special announcement to the table that the service fee was not a tip."
+      ],
+      "location": "Hollywood / Sherman Oaks",
+      "autograt": false,
+      "sources": [
+        "[Online menu](https://www.petittrois.com/loriginal/menu)\n![image](photos/petittrois.png)"
+      ]
     }
   ],
   "remove": [

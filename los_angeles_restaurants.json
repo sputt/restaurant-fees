@@ -3330,18 +3330,20 @@
     "name": "Petit Trois",
     "fees": [
       {
-        "percentage": "4"
+        "name": "Surcharge",
+        "percentage": "4.0"
       }
     ],
-    "removable": false,
+    "removable": true,
     "comments": [
       "As of Aug 2, changed fee from 18% to 4%.",
-      "Other Comments via Reddit"
+      "\"A 4% surcharge is added to all food and beverage sales.\nThis is not a gratuity and is retained in its entirety by the company to enable us to offer benefits to our team members.\nIf you prefer that this charge be removed, please let any member of our team know.\"",
+      "The waiter made a special announcement to the table that the service fee was not a tip."
     ],
     "location": "Hollywood / Sherman Oaks",
     "autograt": false,
     "sources": [
-      "[Reddit /r/LosAngeles Restaurant Surcharges List](https://docs.google.com/spreadsheets/d/1EEPzeytrva770H2xPFFPDUUNdpnL_VQL4vbzFph-jus/edit?usp=drive_link)"
+      "[Online menu](https://www.petittrois.com/loriginal/menu)\n![image](photos/petittrois.png)"
     ]
   },
   {
